@@ -1,0 +1,6 @@
+*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/** filter=lfs diff=lfs merge=lfs -text
+Art/** filter=lfs diff=lfs merge=lfs -text
+**/.fbx filter=lfs diff=lfs merge=lfs -text
+Packages/** filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
